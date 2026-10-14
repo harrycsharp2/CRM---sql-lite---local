@@ -1,4 +1,4 @@
-# CRM---sql-lite---local
+# CRM---sql-lite---WPF
 V0.1
 Features: 
 local sql database
