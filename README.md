@@ -1,2 +1,25 @@
 # CRM---sql-lite---local
-**in beta currently not all features are ready**A CRM built for business owners to manage clients information - produce quoters for clients - manage financial information and track client debt and income. Along with more features.             This application has a local database meaning all the data is only saved too the local pc. 
+V0.1
+Features: 
+local sql database
+
+Main menu dashboard
+- view clients amount.
+- view outstanding balance from clients.
+- View balance
+- View debt
+- View income
+
+Business pannel
+- View business information - used to create quoters
+- update business information
+
+Clients panel
+- Client dashboard - amount of clients, total income, outstanding balance.
+- search for client via name/id
+- Remove client
+- create client
+- edit client information
+
+This is V0.1
+please keep that in mind
